@@ -127,7 +127,7 @@ button:hover{
     border-radius: 40px;
     display: flex;
     align-items: center;
-    margin: 5px;
+    margin: 8px;
 }
 .btn-top:hover{
     transform: translateY(-5px);
@@ -174,5 +174,12 @@ button:hover{
     }
     .info{
         gap: 7.5px;
+    }
+    .btn-top{
+        margin: 5px;
+        right: 5px;
+        bottom: 5px;
+        width: 30px;
+        height: 30px;
     }
 }
