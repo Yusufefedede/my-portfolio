@@ -116,6 +116,23 @@ button:hover{
     box-shadow: 0 4px 30px rgba(43, 98, 169, 0.5);
     border: none;
 }
+.btn-top{
+    background: linear-gradient(45deg, #3b5998, #0078d7);
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+    width: 45px;
+    height: 45px;
+    color: white;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
+.btn-top:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 7px 30px rgba(43, 98, 169, 0.5);
+}
 
 /*MEDİA SCREEN*/
 
